@@ -1,3 +1,28 @@
 body{
-	background-image: url('background.png');
+	background-color: #040D10;
+	font-family: 'Comfortaa';
+}
+
+.map{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.history {
+	object-fit: cover;
+}
+
+.history-title {
+	text-align: center;
+	color: #c2a878;
+}
+
+.colony{	
+	color: #051014;
+	background-color: #C7D3DD;
+	padding: 10px;
+	padding-left: 20px;
+	margin: 20px;
+	margin-left: 10%;
+	margin-right: 10%;
 }
