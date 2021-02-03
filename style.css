@@ -12,7 +12,7 @@ body{
 	object-fit: cover;
 }
 
-.history-title {
+.title {
 	text-align: center;
 	color: #c2a878;
 }
@@ -25,4 +25,41 @@ body{
 	margin: 20px;
 	margin-left: 10%;
 	margin-right: 10%;
+}
+
+.move{
+	color: #051014;
+	background-color: #c2a878;
+	padding: 5px;
+	padding-left: 10px;
+	margin: 10px;
+}
+
+.resource{
+	padding: 2px;
+	padding-left: 4px;
+	margin: 4px;
+}
+
+.resources{
+	margin-left: 10px;
+	margin-right: 20px;
+}
+
+.surplus{
+	color: #051014;
+	background-color: #c2a878;
+}
+
+.need{
+	color: #FCFAFA;
+	background-color: #8B1824;
+}
+
+.fluff{
+	color: #051014;
+	background-color: #c2a878;
+	padding: 5px;
+	padding-left: 10px;
+	margin: 10px;
 }
