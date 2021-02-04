@@ -6,57 +6,164 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="e:\1stuff\GitHub\colonygame\Font\comfortaa.css">
+    <link rel="stylesheet" href="fonts/comfortaa.css">
 
     <title>Hello, world!</title>
   </head>
   <body>
+    <!-- Navbar Start-->
+    <nav class="navbar navbar-expand-lg navbar-dark navbar-style sticky-top shadow">
+      <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav mx-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="stats.html">Communities</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="help.html">Help</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <!-- Navbar End-->
+
     <br>
-    <div class="container-fluid title"><h1>- Сообщества -</h1></div>
-    <!------------------------------------------------------>
+    <div class="container-fluid title"><h1>- Communities -</h1></div>
+
+    <!--Dron-->
+    <br>
+    <div class="container-fluid title"><h1>- - -</h1></div>
     <div class="container">
       <div class="card colony shadow ">
-        <img src="banner1.png" class="rounded">
-        <h1 style="text-align: center;">Колония</h1>
-        <h2 style="text-align: center;">Охват[0] Хватка[1] Ловкость[+1]</h2>
-        <h4 style="text-align: center;">Статус: -1</h4>
-        <div class="row resources">
-          <div class="shadow col-md-2 col-sm-10 card resource surplus"><b>Излишки</b></div>
-          <div class="shadow col-md-2 col-sm-10 card resource surplus"><b>Излишки</b></div>
-          <div class="shadow col-md-2 col-sm-10 card resource surplus"><b>Излишки</b></div>
-          <div class="shadow col-md-2 col-sm-10 card resource need"><b>Нужды</b></div>
-          <div class="shadow col-md-2 col-sm-10 card resource need"><b>Нужды</b></div>
-          <div class="shadow col-md-2 col-sm-10 card resource need"><b>Нужды</b></div>
+        <img src="banner3.png" class="rounded shadow">
+        <br>
+        <h2 style="text-align: center;">Reach:1 Grasp:1 Sleight:-1:</h2>
+        <h4 style="text-align: center;">Mood: 0</h4>
+        <h4 style="text-align: center;">Transtar Favour: 1</h4>
+        <p>There is power in this soil, and truth in these hills. The people stole our lore, and made us forget the things our ancestors had learned. But the land is still talking to us all, and we can teach you how to listen.</p>
+        <div class="d-flex flex-row bd-highlight mb-3 resources flex-wrap">
+          <div class="shadow p-1 card resource surplus"><b>Ancient Writings</b></div>
+          <div class="shadow p-1 card resource surplus"><b>Land</b></div>
+          <div class="shadow p-1 card resource surplus"><b>Weaponry</b></div>
+          <div class="shadow p-1 card resource need"><b>Recruits</b></div>
+          <div class="shadow p-1 card resource need"><b>Prestige</b></div>
+          <div class="shadow p-1 card resource need"><b>Medicine</b></div>
         </div>
-
         <div class="card fluff shadow">
-          <h4>Экипировка</h4>
-          <p>-</p>
+          <h4>Doctrine</h4>
+          <p>Keepers of the Land. Your Characters and Followers gain +1 to Defuse any environmental challenge or obstacle.</p>
 
-          <h4>Культура</h4>
-          <p>-</p>
+          <h4>Lifestyle</h4>
+          <p>Settled. Your buildings follow secret principles from Before, all long forgotten by everyone else. You gain Surplus: Defences and share it with those who live in your settlements.</p>
 
-          <h4>Доктрина</h4>
+          <h4>Culture</h4>
+          <p>Defence</p>
           <p>-</p>
-
-          <h4>Стиль жизни</h4>
           <p>-</p>
         </div>
 
-        <h4 style="text-align: center;">Спец Действия</h4>
+        <h4 style="text-align: center;">Special Moves</h4>
         <div class="card move shadow">
-          <h5>Действие</h5>
-          <p>Lorem ipsum — классический текст-«рыба». Является искажённым отрывком из философского трактата Марка Туллия Цицерона «О пределах добра и зла», написанного в 45 году до н. э. на латинском языке, обнаружение сходства приписывается Ричарду МакКлинтоку.</p>
+          <h5>THE OZAKI WAY</h5>
+          <p>Three things matter in life: to be true to yourself, to give more than you take and to leave no tainted footprints behind. As long as Druid character abides by these rules they gain 3-Armor versus natural hazards or injuries from acts of extreme athleticism in the wilds. </p>
         </div>
         <div class="card move shadow">
-          <h5>Действие</h5>
-          <p>Lorem ipsum — классический текст-«рыба». Является искажённым отрывком из философского трактата Марка Туллия Цицерона «О пределах добра и зла», написанного в 45 году до н. э. на латинском языке, обнаружение сходства приписывается Ричарду МакКлинтоку.</p>
+          <h5>INNOVATIVE DISSENT</h5>
+          <p>When you unleash a natural hazard, conduct a ritual to place Hostile Grounds on a section of the Homeland map. This hazard will last until the end of this Age. Determine the source of the Disadvantage and how you triggered said change. It will happen in a matter of days to weeks.</p>
         </div>
-
       </div>
     </div>
 
+    <!--KYKY-->
+    <br>
+    <div class="container-fluid title"><h1>- CULTIVATORS -</h1></div>
+    <div class="container">
+      <div class="card colony shadow ">
+        <img src="banner2.png" class="rounded shadow">
+        <br>
+        <h2 style="text-align: center;">Reach[0] Grasp[0] Sleight[0]</h2>
+        <h4 style="text-align: center;">Mood: -1</h4>
+        <h4 style="text-align: center;">Transtar Favour: 1</h4>
+        <p>Mother Nature’s a tough old girl, but she can be a little slow. Natural selection takes time, and with the insanity going on outside that’s time we don’t have. That’s where we come in. Life finds a way, but sometimes it needs a little helping hand. </p>
+        <div class="d-flex flex-row bd-highlight mb-3 resources flex-wrap">
+          <div class="shadow p-1 card card resource surplus"><b>Crops</b></div>
+          <div class="shadow p-1 card card resource surplus"><b>Barter Goods</b></div>
+          <div class="shadow p-1 card card resource need"><b>Progress</b></div>
+          <div class="shadow p-1 card card resource need"><b>Medicine</b></div>
+          <div class="shadow p-1 card card resource need"><b>Land</b></div>
+        </div>
+        <div class="card fluff shadow">
+          <h4>Doctrine</h4>
+          <p>Sculpting a New Humanity. When your Family creates or tames a new species, they inherit one of its minor or cosmetic traits</p>
+
+          <h4>Lifestyle</h4>
+          <p>Your Family’s farms and facilities are extensive, and can work on the creation of multiple new Surpluses simultaneously</p>
+
+          <h4>Culture</h4>
+          <p>A co-op of traders and ranchers. </p>
+          <p>Casual clothing</p>
+          <p>Commune of innovators and eccentrics</p>
+        </div>
+
+        <h4 style="text-align: center;">Special Moves</h4>
+        <div class="card move shadow">
+          <h5>CULTURE</h5>
+          <p>When your Community starts cultivating a new
+          product, erase Surplus: Progress, Land, or
+          Barter Goods. After a few months, harvest
+          the product: get the surplus back, plus:
+          <ul>
+            <li>Progress. Get Surplus: Medicine
+            and 1 use of medicine that can heal
+            any harm box instantly.</li>
+            <li>Land. Get Surplus: Crops and slow
+            but steady population growth. At the
+            end of the age, if you still have the
+            surplus, gain Surplus: Recruits.</li>
+            <li>Barter Goods. Get Surplus: Livestock and gain a few exemplary
+            examples of the bred animals. If
+            they’re used as mounts, add 1 free
+            tag to them.</li>
+          </ul>
+          At the start of each season you can skip the
+          months of cultivation and go straight to
+          the harvest.</p>
+        </div>
+        <div class="card move shadow">
+        <h5>WEIRD SCIENCE</h5>
+          <p>When your Community puts together a device powerful enough to shape the local area for generations, say what they want it to do. The GM will give one to three of the following conditions:
+          <ul>
+            <li>It’ll take weeks/months/years to build.</li>
+            <li>You’ll need to erase a certain Surplus.</li>
+            <li>It’ll only work for a limited length of time before needing to recharge.</li>
+            <li>You’ll need to hook it up to a certain power source.</li>
+            <li>You’ll have to sacrifice 1-3 Artifacts.</li>
+          </ul>
+          At the start of each season you can skip the
+          months of cultivation and go straight to
+          the harvest.</p>
+        </div>
       </div>
+    </div>
+
+    <!--CarpetDragon-->
+    <br>
+    <div class="container-fluid title"><h1>- Scum of the earth -</h1></div>
+    <div class="container">
+      <div class="card colony shadow ">
+        <img src="banner1.png" class="rounded shadow">
+        <br>
+        <p>What we left behind was a fascist nightmare of unchecked power, war, and profiteering. Here on our new world there are no old gods, no masters, no kings. As it should be. Earth is very far away now, and we’re gonna keep it that way.</p>
+
+        <div class="card scum container"> Find us if you can</div>
+        </div>
+      </div>
+
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
   </body>

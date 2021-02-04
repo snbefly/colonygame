@@ -3,6 +3,16 @@ body{
 	font-family: 'Comfortaa';
 }
 
+.navbar-style{
+	color: #C7D3DD;
+	background-color: #051014;
+}
+
+a.navbar-style{
+	color: #C7D3DD;
+	text-decoration: none;
+}
+
 .map{
 	margin-top: 20px;
 	margin-bottom: 20px;
@@ -35,6 +45,15 @@ body{
 	margin: 10px;
 }
 
+.scum{
+	text-shadow: 2px 2px 8px black;
+	color: #D9C9AB;
+	background-color: #051014;
+	padding: 10px;
+	width: 200px;
+	text-align: center;
+}
+
 .resource{
 	padding: 2px;
 	padding-left: 4px;
@@ -52,7 +71,7 @@ body{
 }
 
 .need{
-	color: #FCFAFA;
+	color: #E0E0E0;
 	background-color: #8B1824;
 }
 
@@ -62,4 +81,26 @@ body{
 	padding: 5px;
 	padding-left: 10px;
 	margin: 10px;
+}
+
+.help-1{
+	color: #D9C9AB;
+	text-align: center;
+}
+
+.help-2{
+	color: #D9C9AB;
+}
+
+.planet{
+	text-shadow: 2px 2px 8px black;
+	color: #D9C9AB;
+	background-color: #051014;
+	padding: 10px;
+}
+
+.transtar{
+	color: #051014;
+	background-color: #C7D3DD;
+	padding: 10px;
 }
