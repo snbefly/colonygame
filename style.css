@@ -93,7 +93,6 @@ a.navbar-style{
 }
 
 .planet{
-	text-shadow: 2px 2px 8px black;
 	color: #D9C9AB;
 	background-color: #051014;
 	padding: 10px;
@@ -102,6 +101,12 @@ a.navbar-style{
 .transtar{
 	color: #051014;
 	background-color: #C7D3DD;
+	padding: 10px;
+}
+
+.main-colony{
+	color: #051014;
+	background-color: #c2a878;
 	padding: 10px;
 }
 
