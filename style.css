@@ -104,3 +104,13 @@ a.navbar-style{
 	background-color: #C7D3DD;
 	padding: 10px;
 }
+
+.event{
+	color: #051014;
+	background-color: #C7D3DD;
+	padding: 10px;
+	padding-left: 10px;
+	margin: 20px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
