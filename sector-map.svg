@@ -203,22 +203,22 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 142.57037,254.50259 11.36882,11.36881 h 25.41367"
+       d="m 142.57037,254.50259 11.36882,11.36881 h 20.59029"
        id="path1123-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
     <text
        transform="scale(1.0191003,0.98125769)"
        id="text1121-0"
-       y="269.73868"
+       y="270.03659"
        x="151.61064"
        style="font-style:normal;font-weight:normal;font-size:3.94589162px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="269.73868"
+         y="270.03659"
          x="151.61064"
          id="tspan1119-8"
-         sodipodi:role="line">Main Colony</tspan></text>
+         sodipodi:role="line">The Dome</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.94589162px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
@@ -230,11 +230,11 @@
          id="tspan1158"
          x="10.372573"
          y="242.70483"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Heart of the Forest</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Heart of the Jungle</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path1162"
-       d="m 43.194925,244.88145 -5.925318,-5.78801 h -26.52091 l 37.104297,0"
+       d="m 43.194925,244.88145 -5.925318,-5.78801 h -26.52091 37.835112"
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="cccc" />
     <circle
