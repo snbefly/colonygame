@@ -46,9 +46,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90509672"
-     inkscape:cx="569.69452"
-     inkscape:cy="482.62123"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="312.19168"
+     inkscape:cy="220.60851"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -222,21 +222,21 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.94589162px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
-       x="11.792395"
-       y="242.49419"
+       x="10.372573"
+       y="242.70483"
        id="text1160"
        transform="scale(1.0191003,0.98125769)"><tspan
          sodipodi:role="line"
          id="tspan1158"
-         x="11.792395"
-         y="242.49419"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Druid Capital</tspan></text>
+         x="10.372573"
+         y="242.70483"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Heart of the Forest</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path1162"
-       d="m 43.194925,244.88145 -5.925318,-5.78801 H 11.782846"
+       d="m 43.194925,244.88145 -5.925318,-5.78801 h -26.52091 l 37.104297,0"
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       sodipodi:nodetypes="ccc" />
+       sodipodi:nodetypes="cccc" />
     <circle
        style="opacity:1;fill:#916f6f;fill-opacity:1;stroke:#916f6f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1444-0-2"
@@ -465,19 +465,19 @@
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path870-5-9-9"
-       d="m 30.272277,266.59676 4.40367,4.24629 h 16.538329"
+       d="m 29.65216,265.56323 4.40367,4.24629 h 16.538329"
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.44947934px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
-       x="32.946861"
-       y="282.7637"
+       x="32.354782"
+       y="281.68124"
        id="text874-6-42-1"
        transform="scale(1.0473542,0.95478683)"><tspan
          sodipodi:role="line"
          id="tspan872-5-6-1"
-         x="32.946861"
-         y="282.7637"
+         x="32.354782"
+         y="281.68124"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">The passage</tspan></text>
   </g>
 </svg>
