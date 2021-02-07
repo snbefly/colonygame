@@ -46,9 +46,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8101934"
-     inkscape:cx="312.19168"
-     inkscape:cy="220.60851"
+     inkscape:zoom="2.5600001"
+     inkscape:cx="342.10448"
+     inkscape:cy="183.98555"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -238,29 +238,29 @@
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        sodipodi:nodetypes="cccc" />
     <circle
-       style="opacity:1;fill:#916f6f;fill-opacity:1;stroke:#916f6f;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#a7c085;fill-opacity:1;stroke:#a7c085;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1444-0-2"
-       cx="106.99133"
-       cy="264.40564"
+       cx="102.75387"
+       cy="265.64587"
        r="0.62441993" />
     <path
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path1583"
-       d="m 108.58494,266.28483 7.25305,6.867 16.7486,0"
+       d="m 104.34747,267.52506 7.25305,6.867 h 15.19831"
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.44947934px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
-       x="110.94612"
-       y="285.19489"
+       x="106.90025"
+       y="286.49384"
        id="text1587"
        transform="scale(1.0473542,0.95478683)"><tspan
          sodipodi:role="line"
          id="tspan1585"
-         x="110.94612"
-         y="285.19489"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Rogue Druids</tspan></text>
+         x="106.90025"
+         y="286.49384"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Druid Camp</tspan></text>
     <circle
        style="opacity:1;fill:#a9a9a9;fill-opacity:1;stroke:#a9a9a9;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1444-4-1-8-9-5-8"
