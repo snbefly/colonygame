@@ -85,9 +85,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.6203869"
-     inkscape:cx="199.11671"
-     inkscape:cy="540.9462"
+     inkscape:zoom="7.2407738"
+     inkscape:cx="165.00962"
+     inkscape:cy="552.72155"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -118,12 +118,12 @@
      id="layer1"
      transform="translate(0,-136.317)">
     <rect
-       style="opacity:1;fill:#f6842f;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.99999998, 0.50000000000000000;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect7429"
-       width="38.904434"
-       height="9.3914957"
+       y="125.80765"
        x="5.2899818"
-       y="125.66148" />
+       height="9.3914957"
+       width="38.904434"
+       id="rect7441"
+       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.99999998, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
     <g
        id="g855"
        transform="matrix(1.3112241,0,0,1.3112241,31.80193,50.259279)"
@@ -582,46 +582,46 @@
          x="7.5534263"
          y="152.12645"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.06499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan6247">                                   The strike situation concluded in Governor Victor Schulz striking a </tspan><tspan
+         id="tspan6247">                              The strike situation concluded in Governor Victor Schulz striking a </tspan><tspan
          sodipodi:role="line"
          x="7.5534263"
          y="156.7827"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.06499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan6265">                                   peaceful agreement with the uprising leader. A labourers </tspan><tspan
+         id="tspan6267">                              peaceful agreement with the uprising leader. A labourers movement </tspan><tspan
          sodipodi:role="line"
          x="7.5534263"
          y="161.43895"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.06499999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="tspan6267">movement was formed to strengthen the bonds between the company and the people.</tspan></text>
+         id="tspan7437">was formed to strengthen the bonds between the company and the people.</tspan></text>
     <rect
-       y="140.86243"
+       y="140.97205"
        x="5.2899818"
        height="9.3914957"
-       width="38.904434"
+       width="34.046848"
        id="rect6263"
-       style="opacity:1;fill:#c83737;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.99999998, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:#f6822e;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.99999999, 0.5;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        transform="scale(1.0473542,0.95478684)"
        id="text6257"
-       y="154.22842"
+       y="138.14313"
        x="7.5106583"
        style="font-style:normal;font-weight:normal;font-size:4.14463186px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffcfc;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        xml:space="preserve"><tspan
          id="tspan6255"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#fffcfc;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="154.22842"
+         y="138.14313"
          x="7.5106583"
          sodipodi:role="line">BREAKING NEWS</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:4.14463186px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fffcfc;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="8.0688763"
-       y="138.43445"
+       x="7.4767966"
+       y="153.91377"
        id="text6273"
        transform="scale(1.0473542,0.95478684)"><tspan
          sodipodi:role="line"
-         x="8.0688763"
-         y="138.43445"
+         x="7.4767966"
+         y="153.91377"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#fffcfc;fill-opacity:1;stroke:#ffffff;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="tspan6271">LATEST NEWS</tspan></text>
     <rect
@@ -643,5 +643,12 @@
          y="167.11179"
          x="6.1369796"
          sodipodi:role="line">// LOCAL FLORAN FELL INTO THE RIVER // NEW FLAVOUR: CHICKEN SANDWICH // 200 UNION SUPPORTERS TAKE IT TO THE STREETS TO DRIVE TO WORK AS USUAL // HAVE YOU</tspan></text>
+    <rect
+       style="opacity:1;fill:#000000;fill-opacity:0;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.99999999, 0.50000000000000000;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect7439"
+       width="34.046848"
+       height="9.3914957"
+       x="5.2899818"
+       y="125.80763" />
   </g>
 </svg>
