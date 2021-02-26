@@ -130,6 +130,24 @@ a.navbar-style{
 	margin-right: 10%;
 }
 
+.season{
+	color: #051014;
+	background-color: #C7D3DD;
+	padding: 10px;
+	padding-left: 50px;
+	margin: 20px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.age{
+	color: #051014;
+	background-color: #c2a878;
+	padding: 10px;
+	padding-left: 50px;
+	margin: 20px;
+}
+
 .icon{
 	width: 18px;
 	height: 18px;
