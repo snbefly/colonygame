@@ -77,6 +77,19 @@
        width="6"
        patternUnits="userSpaceOnUse"
        id="EMFhbasepattern-5" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter7618"
+       x="-0.031422074"
+       width="1.0628441"
+       y="-1.1696216"
+       height="3.3392433">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="3.9022682"
+         id="feGaussianBlur7620" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -85,9 +98,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.2407738"
-     inkscape:cx="165.00962"
-     inkscape:cy="552.72155"
+     inkscape:zoom="0.90509673"
+     inkscape:cx="658.47527"
+     inkscape:cy="213.89566"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -650,5 +663,31 @@
        height="9.3914957"
        x="5.2899818"
        y="125.80763" />
+    <rect
+       style="opacity:0.274;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.99999997, 0.50000001000000005;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter7618)"
+       id="rect7460"
+       width="298.05301"
+       height="8.0072422"
+       x="-0.13877033"
+       y="174.32874" />
+    <rect
+       y="174.32874"
+       x="-0.13877033"
+       height="8.0072422"
+       width="298.05301"
+       id="rect7443"
+       style="opacity:1;fill:#c2a878;fill-opacity:1;stroke:none;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.99999997, 0.50000001;stroke-dashoffset:0;stroke-opacity:1" />
+    <text
+       transform="scale(1.0473542,0.95478684)"
+       id="text7447"
+       y="188.46049"
+       x="119.7325"
+       style="font-style:normal;font-weight:normal;font-size:4.14463186px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#030303;fill-opacity:1;stroke:#1a232e;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan7445"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;fill:#030303;fill-opacity:1;stroke:#1a232e;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         y="188.46049"
+         x="119.7325"
+         sodipodi:role="line">SEASON 1 CONCLUDED</tspan></text>
   </g>
 </svg>
