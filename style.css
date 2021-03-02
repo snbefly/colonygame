@@ -45,6 +45,7 @@ a.navbar-style{
 	margin: 20px;
 	margin-left: 10%;
 	margin-right: 10%;
+
 }
 
 .move{
@@ -53,6 +54,7 @@ a.navbar-style{
 	padding: 5px;
 	padding-left: 10px;
 	margin: 10px;
+	box-shadow: rgba(255, 187, 61, 0.10) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset;
 }
 
 .scum{
@@ -91,6 +93,7 @@ a.navbar-style{
 	padding: 5px;
 	padding-left: 10px;
 	margin: 10px;
+	box-shadow: rgba(255, 187, 61, 0.10) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset;
 }
 
 .help-1{
@@ -106,17 +109,25 @@ a.navbar-style{
 	color: #D9C9AB;
 	background-color: #051014;
 	padding: 10px;
+	padding-left: 60px;
+	padding-right: 60px;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 15px 30px -12px inset, rgba(0, 0, 0, 0.1) 0px 18px 36px -18px inset;
 }
 
 .locations{
 	color: #051014;
 	background-color: #C7D3DD;
+
 }
 
 .transtar{
 	color: #051014;
 	background-color: #C7D3DD;
 	padding: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	border: none;
+	box-shadow: rgba(255, 255, 255, 0.25) 0px 30px 60px -12px inset, rgba(255, 255, 255, 0.3) 0px 18px 36px -18px inset;
 }
 
 .main-colony{
@@ -133,6 +144,8 @@ a.navbar-style{
 	margin: 20px;
 	margin-left: 10%;
 	margin-right: 10%;
+	border: none;
+	box-shadow: rgba(255, 255, 255, 0.25) 0px 30px 60px -12px inset, rgba(255, 255, 255, 0.3) 0px 18px 36px -18px inset;
 }
 
 .event-done{
@@ -181,6 +194,8 @@ a.navbar-style{
 	padding: 10px;
 	padding-left: 50px;
 	margin: 20px;
+	border: none;
+	box-shadow: rgba(255, 187, 61, 0.10) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset;
 }
 
 .icon{
