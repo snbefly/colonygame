@@ -27,11 +27,21 @@ a.navbar-style{
 	color: #c2a878;
 }
 
+.title-faction {
+	text-align: center;
+	line-height: 6vw;
+	vertical-align: middle;
+	color: #c2a878;
+}
+
+.image-faction {
+	filter: brightness(0.4);
+}
+
 .colony{	
 	color: #051014;
+	border: none;
 	background-color: #C7D3DD;
-	padding: 10px;
-	padding-left: 20px;
 	margin: 20px;
 	margin-left: 10%;
 	margin-right: 10%;
@@ -98,6 +108,11 @@ a.navbar-style{
 	padding: 10px;
 }
 
+.locations{
+	color: #051014;
+	background-color: #C7D3DD;
+}
+
 .transtar{
 	color: #051014;
 	background-color: #C7D3DD;
@@ -130,7 +145,7 @@ a.navbar-style{
 	margin-right: 10%;
 }
 
-.season{
+.season-backup{
 	color: #051014;
 	background-color: #C7D3DD;
 	padding: 10px;
@@ -140,7 +155,27 @@ a.navbar-style{
 	margin-right: 10%;
 }
 
+.season{
+	color: #C7D3DD;
+	background-color: rgba(0,0,0,0);
+	padding: 10px;
+	padding-left: 50px;
+	margin: 20px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.season::before{
+	height: 100%;
+	width: 5px;
+	position: absolute;
+	content: "";
+	background-color: #C7D3DD;
+	left: 30px;
+}
+
 .age{
+	border:none;
 	color: #051014;
 	background-color: #c2a878;
 	padding: 10px;
@@ -171,4 +206,12 @@ a.navbar-style{
 	margin-left: auto;
 	margin-right: auto;
 	align-items: center;
+}
+
+.statblock-3{	
+	color: #051014;
+	background-color: #C7D3DD;
+	margin: 20px;
+	margin-left: 10%;
+	margin-right: 10%;
 }
