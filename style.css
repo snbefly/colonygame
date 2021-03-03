@@ -176,6 +176,7 @@ a.navbar-style{
 	margin: 20px;
 	margin-left: 10%;
 	margin-right: 10%;
+	border: none;
 }
 
 .season::before{
