@@ -231,3 +231,9 @@ a.navbar-style{
 	margin-left: 10%;
 	margin-right: 10%;
 }
+
+.collage{
+	position: absolute;
+	width: 30%;
+	margin-left: 68%
+}
