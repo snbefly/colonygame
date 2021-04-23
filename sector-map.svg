@@ -98,9 +98,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="5.1200004"
-     inkscape:cx="199.94321"
-     inkscape:cy="155.71797"
+     inkscape:zoom="2.5600002"
+     inkscape:cx="412.97319"
+     inkscape:cy="111.9108"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -272,12 +272,6 @@
          x="106.90025"
          y="286.49384"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Druid Camp</tspan></text>
-    <circle
-       style="opacity:1;fill:#a9a9a9;fill-opacity:1;stroke:#a9a9a9;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path1444-4-1-8-9-5-8"
-       cx="122.11921"
-       cy="261.84781"
-       r="0.56404388" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 123.62425,263.62898 2.95673,2.79935 h 20.695"
@@ -707,5 +701,16 @@
        cx="28.38957"
        cy="264.24326"
        r="1.2217774" />
+    <circle
+       style="opacity:1;fill:#733c3e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1444-0-2-4-7"
+       cx="122.19228"
+       cy="261.88425"
+       r="0.88023001" />
+    <path
+       style="fill:#a7c085;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.54312,261.29151 a 0.88023004,0.88023004 0 0 0 -0.23104,0.59262 0.88023004,0.88023004 0 0 0 0.88012,0.88052 0.88023004,0.88023004 0 0 0 0.59262,-0.23104 c -0.42899,-0.42899 -0.77412,-0.77452 -1.2417,-1.2421 z"
+       id="path906-8"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
