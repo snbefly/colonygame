@@ -34,6 +34,13 @@ a.navbar-style{
 	color: #c2a878;
 }
 
+.title-character {
+	text-align: center;
+	line-height: 6vw;
+	vertical-align: middle;
+	color: #051014;
+}
+
 .image-faction {
 	filter: brightness(0.4);
 }
@@ -111,7 +118,6 @@ a.navbar-style{
 	padding: 10px;
 	padding-left: 60px;
 	padding-right: 60px;
-	box-shadow: rgba(50, 50, 93, 0.25) 0px 15px 30px -12px inset, rgba(0, 0, 0, 0.1) 0px 18px 36px -18px inset;
 }
 
 .locations{
@@ -196,7 +202,6 @@ a.navbar-style{
 	padding-left: 50px;
 	margin: 20px;
 	border: none;
-	box-shadow: rgba(255, 187, 61, 0.10) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset;
 }
 
 .icon{
@@ -236,4 +241,54 @@ a.navbar-style{
 	position: absolute;
 	width: 30%;
 	margin-left: 68%
+}
+
+.flex-rack{
+	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: center;
+  	justify-content: space-between
+  }
+
+.moves-block{
+	color: #051014;
+	background-color: #c2a878;
+	padding: 5px;
+	padding-left: 10px;
+	margin: 10px;
+	width: 47%;
+	box-shadow: rgba(255, 187, 61, 0.10) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset;
+}
+
+.character-block{
+	color: #051014;
+	background-color: #C7D3DD;
+	padding: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin: 1rem;
+	border: none;
+	box-shadow: rgba(255, 255, 255, 0.25) 0px 30px 60px -12px inset, rgba(255, 255, 255, 0.3) 0px 18px 36px -18px inset;
+}
+
+.character-move{
+	color: #051014;
+	background-color: #c2a878;
+	padding: 5px;
+	padding-left: 10px;
+	margin-bottom: 10px;
+	box-shadow: rgba(255, 187, 61, 0.10) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset;
+}
+
+.assets{
+	position: relative;
+	float: right;
+	width: 500;
+	height: 334;
+	border-color: rgba(0,0,0,0.2);
+	border-style: solid;
+	border-width: 0;
+	border-left-width: 1px;
+	margin-left: 1rem;
+	padding-left: 1rem;
 }
