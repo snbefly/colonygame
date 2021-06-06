@@ -61,7 +61,7 @@ a.navbar-style{
 	padding: 5px;
 	padding-left: 10px;
 	margin: 10px;
-	box-shadow: rgba(255, 187, 61, 0.10) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset;
+	box-shadow: rgba(255, 255, 255, 0.20) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset;
 }
 
 .scum{
@@ -87,11 +87,13 @@ a.navbar-style{
 .surplus{
 	color: #051014;
 	background-color: #c2a878;
+	box-shadow: rgba(255, 255, 255, 0.20) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset, rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
 }
 
 .need{
 	color: #E0E0E0;
 	background-color: #8B1824;
+	box-shadow: rgba(0, 0, 0, 0.20) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset, rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
 }
 
 .fluff{
@@ -100,7 +102,7 @@ a.navbar-style{
 	padding: 5px;
 	padding-left: 10px;
 	margin: 10px;
-	box-shadow: rgba(255, 187, 61, 0.10) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset;
+	box-shadow: rgba(255, 255, 255, 0.20) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset;
 }
 
 .help-1{
@@ -291,4 +293,59 @@ a.navbar-style{
 	border-left-width: 1px;
 	margin-left: 1rem;
 	padding-left: 1rem;
+}
+
+.tooltip1 {
+
+}
+
+.tooltip1 .tooltiptext {
+	top: 2.3rem;
+	left: -3px;
+	display: none;
+  width: 300px;
+  background-color: #051014;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+  border-radius: 6px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgba(0,0,0,0.1);
+ 
+  position: absolute;
+  z-index: 1;
+  transition: 0.2s;
+}
+
+.tooltip1:hover .tooltiptext {
+	display: inline;
+}
+
+.tooltip1 .tags {
+	opacity: 0.5;
+}
+
+.surplus .tooltiptext {
+	color: #051014;
+	background-color: #c2a878;
+	box-shadow: rgba(255, 255, 255, 0.20) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset, rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.need .tooltiptext {
+	color: #E0E0E0;
+	background-color: #8B1824;
+	box-shadow: rgba(0, 0, 0, 0.30) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset, rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.info-flex{
+	flex: 1;
+	margin: 0.3rem;
+}
+
+@media only screen and (max-width: 1000px) {
+ 	.info-flex{
+ 		flex: none;
+ 		width: 95%;
+	}
 }
