@@ -329,6 +329,7 @@ a.navbar-style{
 .tooltip1:hover .tooltiptext {
 	display: inline;
 }
+
 .surplus .tooltiptext {
 	color: #051014;
 	background-color: #c2a878;
@@ -352,3 +353,123 @@ a.navbar-style{
  		width: 95%;
 	}
 }
+
+
+.wiki-wraper{
+	margin: 3rem;
+}
+
+.wiki-container{
+	color: #051014;
+	background-color: #C7D3DD;
+	padding: 3rem;
+	flex: 8;
+	box-shadow: rgba(255, 255, 255, 0.20) 0px 60px 60px -12px inset, rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
+}
+
+.wiki-menu{
+	height: auto;
+	color: #D9C9AB;
+	background-color: #051014;
+	padding: 2rem;
+	flex: 1;
+	width:500px;
+}
+
+.wiki-menu a:link, a:visited, a:hover, a:active {
+	color: #D9C9AB;
+}
+
+@media only screen and (max-width: 1000px) {
+ 	.info-flex{
+ 		flex: none;
+ 		width: 95%;
+	}
+}
+
+.treaty-name {
+	color: #051014;
+	background-color: #C7D3DD;
+	padding: 3px;
+	padding-left: 1rem;
+	float: left;
+	width: 35%;
+	min-width: 130px;
+
+	border-radius: 20px 0px 0px 20px;
+	border-width: 1px;
+	border-right-width: 0;
+  	border-style: solid;
+  	border-color: rgba(0,0,0,0.2);
+}
+
+.treaty-you {
+	color: #051014;
+	background-color: #C7D3DD;
+	padding: 3px;
+	padding-left: 0.6rem;
+	float: left;
+	width:30px;
+
+	border-width: 1px;
+	border-left-width: 0;
+	border-right-width: 0;
+  	border-style: solid;
+  	border-color: rgba(0,0,0,0.2);
+}
+
+.treaty-them {
+	color: #E0E0E0;
+	background-color: #8B1824;
+	padding: 3px;
+	padding-left: 0.6rem;
+	border-radius: 0px 20px 20px 0px;
+	float: left;
+	width:35px;
+	border-width: 1px;
+  	border-style: solid;
+  	border-color: rgba(0,0,0,0.2);
+}
+
+.treaty-wrapper {
+	margin-bottom: 1rem;
+	clear: none;
+	float: left;
+	display: block;
+	margin-right: auto;
+	border-radius: 20px 20px 20px 20px;
+	box-shadow: rgba(255, 255, 255, 0.20) 0px 30px 60px -12px inset, rgba(100, 100, 111, 0.1) 0px 7px 10px 0px;
+}
+
+.asset {
+	color: #051014;
+	background-color: #C7D3DD;
+
+	padding: 3px;
+	padding-left: 1rem;
+	padding-right: 1rem;
+
+	margin: 1rem;
+	margin-left: 0;
+	margin-top: 0;
+	margin-right: auto;
+
+	border-width: 1px;
+  	border-style: solid;
+  	border-radius: 10px;
+  	border-color: rgba(0,0,0,0.2);
+
+  	text-align: center;
+  	
+  	box-shadow: rgba(255, 255, 255, 0.20) 0px 30px 60px -12px inset, rgba(100, 100, 111, 0.1) 0px 7px 10px 0px;
+}
+
+.asset .tooltiptext {
+	color: #051014;
+	background-color: #c2a878;
+	box-shadow: rgba(255, 255, 255, 0.20) 0px 30px 60px -12px inset, rgba(255, 187, 61, 0.3) 0px 18px 36px -18px inset, rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
+}
+
+.flex-assets{
+
+  }
