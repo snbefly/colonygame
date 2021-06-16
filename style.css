@@ -356,6 +356,10 @@ a.navbar-style{
 
 
 .wiki-wraper{
+	margin-top: 3rem;
+}
+
+.wiki-logl-wraper{
 	margin: 3rem;
 }
 
@@ -521,5 +525,9 @@ a.navbar-style{
  	.info-flex{
  		flex: none;
  		width: 95%;
+	}
+	.wiki-wraper{
+		margin-left: 0;
+		margin-right: 0;
 	}
 }
