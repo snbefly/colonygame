@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+    <link rel="stylesheet" href="font/comfortaa.css">
+    <link rel="stylesheet" href="../style.css">
+
+    <title>Legacy: Optima</title>
+  </head>
+  <style>
+      body{
+        background-color: #C7D3DD;
+      }
+    </style>
+  <body>
+    <!-- Navbar Start-->
+    <nav class="navbar navbar-expand navbar-dark navbar-style sticky-top shadow">
+        <ul class="navbar-nav mx-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="../index.html">Home</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="wikima.html">Wikima</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="../stats.html">Statblocks</a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="../help.html">Help</a>
+          </li>
+        </ul>
+    </nav>
+    <!-- Navbar End-->
+    <div class="wiki-wraper">
+      <img src="wikima.svg" class="wikima-logo">
+      <div style="">
+        <h1>Welcome to Wikima</h1>
+        <h5>Optima's only reliable source</h5>
+      </div>
+    </div>
+
+    <div class="wiki-wraper flex-rack">
+      <div class="wiki-menu wiki-menu-links">
+        <h3>Articles</h3>
+        <h5>Locations</h5>
+        <ul>
+          <li><a href="#" onclick="newSrc('locations/wiki_optima.html')">Optima</a></li>
+          <li><a href="#" onclick="newSrc('locations/wiki_transtar.html')">Transtar</a></li>
+          <li><a href="#" onclick="newSrc('locations/wiki_domes.html')">The Domes</a></li>
+          <li><a href="#" onclick="newSrc('locations/wiki_facility.html')">The Drilling Facility</a></li>
+        </ul>
+        <hr>
+        <h5>Events</h5>
+        <ul>
+          <li><a class="link-grey" href="#">First Contact</a></li>
+          <li><a class="link-grey" href="#">Facility Riots</a></li>
+          <li><a class="link-grey" href="#">The Revival</a></li>
+          <li><a class="link-grey" href="#">Floran Breakout</a></li>
+        </ul>
+        <hr>
+        <h5>Characters</h5>
+        <ul>
+          <li><a class="link-grey" href="#">Fom</a></li>
+          <li><a class="link-grey" href="#">Urist</a></li>
+          <li><a class="link-grey" href="#">Anarchist</a></li>
+          <li><a class="link-grey" href="#">Supervisor</a></li>
+          <li><a class="link-grey" href="#">Nula</a></li>
+          <li><a class="link-grey" href="#">The Keeper</a></li>
+          <li><a class="link-grey" href="#">Sakram</a></li>
+          <li><a class="link-grey" href="#">Nemesida</a></li>
+          <li><a class="link-grey" href="#">Viktor</a></li>
+          <li><a class="link-grey" href="#">Ms. Indermaur</a></li>
+          <li><a class="link-grey" href="#">Major</a></li>
+        </ul>
+        <hr>
+        <h5>Other</h5>
+        <hr>
+        <ul>
+          <li><a class="link-grey" href="#">Artifact atlas</a></li>
+          <li><a class="link-grey" href="#">Transtar catalogue</a></li>
+        </ul>
+        <h5>Legacy</h5>
+        <ul>
+          <li><a class="link-grey" href="#">Connection statements</a></li>
+          <li><a class="link-grey" href="#">Resources</a></li>
+          <li><a class="link-grey" href="#">Wonders</a></li>
+        </ul>
+        <h5><a href="../stats.html">Statblocks</a></h5>
+      </div>
+
+      <div class="wiki-ifrcontainer">
+        <iframe id="myIframe" src="locations/wiki_optima.html" class="wikima-iframe"></iframe>
+      </div>
+
+    </div>
+
+    <script>
+
+    function newSrc(url) {
+      document.getElementById("myIframe").src=url;
+    }
+    // Selecting the iframe element
+    var iframe = document.getElementById("myIframe");
+    
+    // Adjusting the iframe height onload event
+    iframe.onload = function(){
+        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+    }
+    window.onresize = function(){
+        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+    }
+    </script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" 
+    crossorigin="anonymous"></script>
+  </body>
+</html>

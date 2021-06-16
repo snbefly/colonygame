@@ -367,6 +367,18 @@ a.navbar-style{
 	box-shadow: rgba(255, 255, 255, 0.20) 0px 60px 60px -12px inset, rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
 }
 
+.wiki-ifrcontainer{
+	color: #051014;
+	padding: 3rem;
+	background-color: #C7D3DD;
+	flex: 8;
+	box-shadow: rgba(255, 255, 255, 0.20) 0px 60px 60px -12px inset, rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
+}
+
+.wiki-contcontainer{
+	color: #051014;
+}
+
 .wiki-menu{
 	height: auto;
 	color: #D9C9AB;
@@ -376,9 +388,15 @@ a.navbar-style{
 	width:500px;
 }
 
-.wiki-menu a:link, a:visited, a:hover, a:active {
-	color: #D9C9AB;
-}
+.wiki-menu-links a:link{color: #D9C9AB;}
+.wiki-menu-links a:visited{color: #D9C9AB;}
+.wiki-menu-links a:hover{color: #D9C9AB;}
+.wiki-menu-links a:active{color: #D9C9AB;}
+
+.link-grey:link{color: #D9C9AB; opacity: 0.5;}
+.link-grey:visited{color: #D9C9AB; opacity: 0.5;}
+.link-grey:hover{color: #D9C9AB; opacity: 0.5;}
+.link-grey:active{color: #D9C9AB; opacity: 0.5;}
 
 @media only screen and (max-width: 1000px) {
  	.info-flex{
@@ -472,4 +490,29 @@ a.navbar-style{
 
 .flex-assets{
 
-  }
+}
+
+.wikima-logo{
+ 	height: 100px; width: 100px;
+ 	float: left;
+}
+
+.wikima-iframe{
+	width: 100%;
+}
+
+.wikima-image{
+	margin: 1rem;
+	padding: 0.5rem;
+	border-width: 1px;
+  	border-style: solid;
+  	border-color: rgba(0,0,0,0.2);
+  	border-radius: 10px;
+}
+
+@media only screen and (max-width: 1000px) {
+ 	.info-flex{
+ 		flex: none;
+ 		width: 95%;
+	}
+}
