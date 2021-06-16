@@ -549,12 +549,16 @@ a.navbar-style{
   	border-radius: 10px;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-device-width: 1000px)  {
  	.info-flex{
  		display: block;
  		width: 95%;
 	}
 	.wikima-image{
 		display: none;
+	}
+
+	.wiki-wrapper{
+		box-shadow: none;
 	}
 }
