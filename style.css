@@ -395,7 +395,7 @@ a.navbar-style{
 .wiki-ifrcontainer{
 	color: #051014;
 	padding: 3rem;
-	background-color: #C7D3DD;
+	background-color: rgb(199, 211, 221);
 	flex: 8;
 	box-shadow: rgba(255, 255, 255, 0.20) 0px 60px 60px -12px inset, rgba(100, 100, 111, 0.4) 0px 7px 29px 0px;
 }
