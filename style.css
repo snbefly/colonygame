@@ -389,7 +389,6 @@ a.navbar-style{
 	background-color: #051014;
 	padding: 2rem;
 	flex: 1;
-	width:500px;
 }
 
 .wiki-menu-links a:link{color: #D9C9AB;}
@@ -549,7 +548,7 @@ a.navbar-style{
   	border-radius: 10px;
 }
 
-@media only screen and (max-device-width: 1000px)  {
+@media only screen and (max-width: 800px) {
  	.info-flex{
  		display: block;
  		width: 95%;
@@ -561,4 +560,8 @@ a.navbar-style{
 	.wiki-wrapper{
 		box-shadow: none;
 	}
+	.flex-rack{
+		display: block;
+	}
+	.
 }
