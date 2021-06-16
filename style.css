@@ -257,7 +257,28 @@ a.navbar-style{
   	flex-wrap: wrap;
   	justify-content: center;
   	justify-content: space-between
-  }
+}
+
+.flex-rack{
+	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: center;
+  	justify-content: space-between
+}
+
+.flex-rack-treaty{
+	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: center;
+  	justify-content: space-between
+}
+
+.flex-rack-wiki{
+	display: flex;
+  	flex-wrap: wrap;
+  	justify-content: center;
+  	justify-content: space-between
+}
 
 .moves-block{
 	color: #051014;
@@ -483,7 +504,6 @@ a.navbar-style{
 .treaty-wrapper {
 	margin-bottom: 1rem;
 	clear: none;
-	float: left;
 	display: block;
 	margin-right: auto;
 	border-radius: 20px 20px 20px 20px;
@@ -550,7 +570,6 @@ a.navbar-style{
 
 @media only screen and (max-width: 800px) {
  	.info-flex{
- 		display: block;
  		width: 95%;
 	}
 	.wikima-image{
@@ -560,8 +579,12 @@ a.navbar-style{
 	.wiki-wrapper{
 		box-shadow: none;
 	}
+
 	.flex-rack{
 		display: block;
 	}
-	.
+
+	.flex-rack-wiki{
+		display: block;
+	}
 }
