@@ -497,6 +497,13 @@ a.navbar-style{
  	float: left;
 }
 
+.wikima-logo2{
+ 	height: 100px; width: 100px;
+ 	position: absolute;
+ 	top: 0;
+ 	left: 0;
+}
+
 .wikima-iframe{
 	width: 100%;
 }
