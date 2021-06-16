@@ -397,6 +397,34 @@ a.navbar-style{
 .wiki-menu-links a:hover{color: #D9C9AB;}
 .wiki-menu-links a:active{color: #D9C9AB;}
 
+.stat-links {
+	text-decoration: none;
+	text-align: center;
+	list-style-type: none;
+	font-size: 18px;
+}
+
+.stat-links a:link{
+	color: #D9C9AB;
+	text-decoration: none;
+	margin-left: 0;
+}
+.stat-links a:visited{
+	color: #D9C9AB;
+	text-decoration: none;
+	margin-left: 0;
+}
+.stat-links a:hover{
+	color: #D9C9AB;
+	text-decoration: none;
+	margin-left: 0;
+}
+.stat-links a:active{
+	color: #D9C9AB;
+	margin-left: 0;
+
+}
+
 .link-grey:link{color: #D9C9AB; opacity: 0.5;}
 .link-grey:visited{color: #D9C9AB; opacity: 0.5;}
 .link-grey:hover{color: #D9C9AB; opacity: 0.5;}
