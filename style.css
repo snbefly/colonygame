@@ -551,11 +551,10 @@ a.navbar-style{
 
 @media only screen and (max-width: 1000px) {
  	.info-flex{
- 		flex: none;
+ 		display: block;
  		width: 95%;
 	}
-	.wiki-wraper{
-		margin-left: 0;
-		margin-right: 0;
+	.wikima-image{
+		display: none;
 	}
 }
