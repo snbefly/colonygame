@@ -98,9 +98,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8101935"
-     inkscape:cx="276.19217"
-     inkscape:cy="204.20529"
+     inkscape:zoom="0.90509675"
+     inkscape:cx="570.27279"
+     inkscape:cy="405.07806"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -207,7 +207,7 @@
        sodipodi:nodetypes="csssssssssccssssssssssc" />
     <path
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 142.57037,254.50259 11.36882,11.36881 h 20.59029"
+       d="m 142.57037,254.50259 11.36882,11.36881 h 23.22122"
        id="path1123-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccc" />
@@ -222,7 +222,7 @@
          y="270.03659"
          x="151.61064"
          id="tspan1119-8"
-         sodipodi:role="line">The Dome</tspan></text>
+         sodipodi:role="line">The Domes</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.94589162px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
@@ -259,24 +259,18 @@
          x="106.90025"
          y="286.49384"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Druid Camp</tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 123.60361,261.97224 2.4658,0.0347 h 20.695"
-       id="path1055"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccc" />
     <text
        transform="scale(1.0473542,0.95478683)"
        id="text1059"
-       y="273.54846"
-       x="120.71494"
+       y="282.12119"
+       x="124.48291"
        style="font-style:normal;font-weight:normal;font-size:2.44947934px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         y="273.54846"
-         x="120.71494"
+         y="282.12119"
+         x="124.48291"
          id="tspan1057"
-         sodipodi:role="line">Point of Contact</tspan></text>
+         sodipodi:role="line">Gardens Of Osiris</tspan></text>
     <rect
        style="opacity:1;fill:#3c6591;fill-opacity:1;stroke:#3a5675;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect890"
@@ -621,5 +615,11 @@
        cx="102.53833"
        cy="265.76569"
        r="1.2217774" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 122.83709,263.35941 7.25305,6.867 23.01803,0"
+       id="path904"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
   </g>
 </svg>
