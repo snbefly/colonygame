@@ -90,6 +90,14 @@
          stdDeviation="3.9022682"
          id="feGaussianBlur7620" />
     </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Greyscale"
+       id="filter911">
+      <feColorMatrix
+         values="0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0.21 0.72 0.072 0 0 0 0 0 1 0 "
+         id="feColorMatrix909" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -98,9 +106,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.8101935"
-     inkscape:cx="483.72143"
-     inkscape:cy="179.81512"
+     inkscape:zoom="0.90509675"
+     inkscape:cx="587.12439"
+     inkscape:cy="272.23555"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -130,10 +138,18 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-136.317)">
+    <rect
+       style="opacity:1;fill:#fffdfd;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect925"
+       width="303.72675"
+       height="166.3335"
+       x="-0.87697804"
+       y="135.92836"
+       ry="0" />
     <g
        id="g855"
        transform="matrix(1.3112241,0,0,1.3112241,31.80193,50.259279)"
-       style="stroke-width:0.76264614">
+       style="stroke-width:0.76264614;filter:url(#filter911);opacity:0.72">
       <path
          style="fill:#d6dccb;stroke-width:0.76264614"
          d="M -24.240915,126.88295 V 65.631905 H 89.000755 202.24242 v 61.251045 61.25103 H 89.000755 -24.240915 Z"
