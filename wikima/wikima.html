@@ -9,7 +9,7 @@
 
     <title >Legacy: Wikima</title>
   </head>
-  <body>
+  <body onload="onPageLoad();">
     <style>
       body{
         background-color: rgb(199, 211, 221);
@@ -113,19 +113,54 @@
 
     <script>
 
-    function newSrc(url) {
-      document.getElementById("myIframe").src=url;
-    }
-    // Selecting the iframe element
-    var iframe = document.getElementById("myIframe");
-    
-    // Adjusting the iframe height onload event
-    iframe.onload = function(){
-        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-    }
-    window.onresize = function(){
-        iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
-    }
+      // Selecting the iframe element
+      var iframe = document.getElementById("myIframe");
+
+      //seting the source for the iframe
+
+      function getSearchVar() {
+          let queryDict = {};
+          let params = window.location.search;
+          console.log("init: "+params);
+          console.log("1: "+params.substring(1));
+          console.log("2: "+params.substring(1).split('='));
+          params = params.substring(1).split('=')[1];
+
+          return params;
+      }
+
+      function onPageLoad(){
+        console.log(window.location);
+          loadSrc(getSearchVar());
+      }
+
+      function newSrc(url) {
+        setIframe(url)
+        saveSrc(url)
+      }
+
+      function setIframe(url){
+        document.getElementById("myIframe").src=url;
+      }
+      
+      function saveSrc(src) {
+          window.location.search = "?artName="+src;
+      }
+
+      function loadSrc(query) {
+        if(query != null){
+          setIframe(query);
+        }
+      }
+
+      // Adjusting the iframe height onload event
+      iframe.onload = function(){
+          iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+      }
+      window.onresize = function(){
+          iframe.style.height = iframe.contentWindow.document.body.scrollHeight + 'px';
+      }
+
     </script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" 
     crossorigin="anonymous"></script>
