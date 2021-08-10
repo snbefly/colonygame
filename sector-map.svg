@@ -106,9 +106,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64000005"
-     inkscape:cx="574.4064"
-     inkscape:cy="260.10127"
+     inkscape:zoom="2.5600002"
+     inkscape:cx="321.94849"
+     inkscape:cy="166.85293"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -435,11 +435,11 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csssssc" />
     <circle
-       style="opacity:1;fill:#3a5675;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#f79137;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1444-0-2-4"
        cx="117.92374"
        cy="258.17352"
-       r="0.88023001" />
+       r="0.86731088" />
     <path
        style="fill:#f6ce6e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 117.27458,257.5808 a 0.88023003,0.88023003 0 0 0 -0.23104,0.59262 0.88023003,0.88023003 0 0 0 0.88012,0.88052 0.88023003,0.88023003 0 0 0 0.59261,-0.23104 c -0.42898,-0.42899 -0.77411,-0.77452 -1.24169,-1.2421 z"
@@ -449,20 +449,20 @@
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path912"
-       d="m 117.00908,259.26043 -2.95673,2.79935 h -20.695"
+       d="m 117.00908,259.26043 -2.95673,2.79935 -11.04824,0"
        style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.44947934px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none"
-       x="89.11058"
+       x="98.390953"
        y="273.75693"
        id="text916"
        transform="scale(1.0473542,0.95478683)"><tspan
          sodipodi:role="line"
          id="tspan914"
-         x="89.11058"
+         x="98.390953"
          y="273.75693"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Neutral Grounds</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Comfortaa;-inkscape-font-specification:Comfortaa;stroke:#000000;stroke-width:0.065;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">Embassy</tspan></text>
     <path
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
@@ -604,11 +604,11 @@
        cy="264.24326"
        r="1.2217774" />
     <circle
-       style="opacity:1;fill:#733c3e;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#733c3e;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1444-0-2-4-7"
        cx="122.19228"
        cy="261.88425"
-       r="0.88023001" />
+       r="0.86731088" />
     <path
        style="fill:#f6ce6e;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 121.54312,261.29151 a 0.88023004,0.88023004 0 0 0 -0.23104,0.59262 0.88023004,0.88023004 0 0 0 0.88012,0.88052 0.88023004,0.88023004 0 0 0 0.59262,-0.23104 c -0.42899,-0.42899 -0.77412,-0.77452 -1.2417,-1.2421 z"
